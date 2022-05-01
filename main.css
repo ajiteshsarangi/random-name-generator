@@ -1,0 +1,8 @@
+.logo{
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.team{
+    display: flex;
+    justify-content: center;
+}
